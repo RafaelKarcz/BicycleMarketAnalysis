@@ -1,5 +1,5 @@
 Bicycle Market Analysis Project
-===========================
+================================
 
 This repository contains an Excel 2016-based analysis of bike sales data, exploring various demographic factors and their relationship to bike purchasing behavior.
 
